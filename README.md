@@ -4,7 +4,7 @@ A collection of Python tools for PC and mobile.
 
 ## Usage:
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 [![Python](https://img.shields.io/badge/Python-3.7+-green.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android-lightgrey.svg)]()
 
